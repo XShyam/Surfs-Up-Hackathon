@@ -2,7 +2,8 @@
 *An innovative solution to help book and manage boats*
 ***
 **PROJECT WEBSITE :** http://xshyam.github.io/Surfs-Up-Hackathon
-&nbsp;
+
+
 **HACKATHON WEBSITE :** https://surfsuphacks.devpost.com/
 ***
 &nbsp; 
