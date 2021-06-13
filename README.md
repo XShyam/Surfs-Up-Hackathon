@@ -26,4 +26,4 @@ We've also used a free domain name from GoDaddy Registry as a part of this Hacka
 
 `PLEASE CLICK ON THE IMAGE BELOW TO VIEW THE CODE` 
    
-   [![Project](https://cutt.ly/NnDF2lv)](https://github.com/EnagantiKarunKumar/Boat-Management-System_sURF-UP-HACKATHON)
+   [![Project](https://cutt.ly/NnDF2lv)](https://github.com/XShyam/Surfs-Up-Hackathon)
