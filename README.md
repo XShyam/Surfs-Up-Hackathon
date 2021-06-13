@@ -27,6 +27,8 @@ Please note everyone in this group are first time participants in Hackathon.
    
    [![Project](https://cutt.ly/NnDF2lv)](https://github.com/XShyam/Surfs-Up-Hackathon)
 
+&nbsp;
+
 `PLEASE CLICK ON THE IMAGE BELOW TO VIEW OUR DEMONSTRATION VIDEO`
 
 [![Project](https://cutt.ly/pnDCkDG)](https://www.youtube.com/watch?v=RXioHFIlOV8)
