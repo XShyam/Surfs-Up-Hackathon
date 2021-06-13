@@ -29,4 +29,4 @@ Please note everyone in this group are first time participants in Hackathon.
 
 `PLEASE CLICK ON THE IMAGE BELOW TO VIEW OUR DEMONSTRATION VIDEO`
 
-[![Project](https://cutt.ly/snDCDGX)](https://www.youtube.com/watch?v=RXioHFIlOV8)
+[![Project](https://cutt.ly/pnDCkDG)](https://www.youtube.com/watch?v=RXioHFIlOV8)
