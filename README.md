@@ -8,6 +8,7 @@
 
 **HACKATHON WEBSITE :** https://surfsuphacks.devpost.com/
 ***
+
 &nbsp; 
 
 
@@ -17,11 +18,14 @@ This is an opensource project for the surfs up hackathon. The aim of this projec
 &nbsp;
 
 
+
 > **FEATURES :**
 - Backed up to cloud, which means this web aplication can be accessed any where anytime.
 - An intuitive UI helps the user to easily navigate and help register boats.
 - It's open source, so anyone who wishes to use this code is welcome to do so.
+
 &nbsp;
+
 
 
 > **LESSONS LEARNT :**
