@@ -24,6 +24,6 @@ Please note everyone in this group are first time participants in Hackathon.
 We've also used a free domain name from GoDaddy Registry as a part of this Hackathon.
 ```
 
-`PLEASE CLICK ON THE IMAGE BELOW TO VIEW THE CODE` 
+`PLEASE CLICK ON THE IMAGE BELOW TO VIEW THE REPOSITORY` 
    
    [![Project](https://cutt.ly/NnDF2lv)](https://github.com/XShyam/Surfs-Up-Hackathon)
