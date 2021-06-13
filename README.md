@@ -21,7 +21,6 @@ This is an opensource project for the surfs up hackathon. The aim of this projec
 &nbsp;
 ```
 Please note everyone in this group are first time participants in Hackathon.
-We've also used a free domain name from GoDaddy Registry as a part of this Hackathon.
 ```
 
 `PLEASE CLICK ON THE IMAGE BELOW TO VIEW THE REPOSITORY` 
