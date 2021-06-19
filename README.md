@@ -1,5 +1,10 @@
 # BOAT MANAGEMENT SOFTWARE
 *An innovative solution to help book and manage boats*
+
+<p align="center">
+	<img align="center" src="./stat.svg" width="800px">
+</p>
+
 ***
 
 
