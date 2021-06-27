@@ -48,16 +48,15 @@ This is an opensource project for the surfs up hackathon. The aim of this projec
 ***
 
 
-```
-Please note everyone in this group are first time participants in Hackathon.
-```
 
 `PLEASE CLICK ON THE IMAGE BELOW TO VIEW THE REPOSITORY` 
    
-   [![Project](https://cutt.ly/NnDF2lv)](https://github.com/XShyam/Surfs-Up-Hackathon)
+   
+   <a href="https://github.com/XShyam/Surfs-Up-Hackathon"><img src="https://cutt.ly/NnDF2lv" width="75px" height="75px"></a>
 
 &nbsp;
 
 `PLEASE CLICK ON THE IMAGE BELOW TO VIEW OUR DEMONSTRATION VIDEO`
 
-[![Project](https://cutt.ly/pnDCkDG)](https://www.youtube.com/watch?v=RXioHFIlOV8)
+
+	<a href="https://www.youtube.com/watch?v=RXioHFIlOV8"><img src="https://cutt.ly/pnDCkDG" width="75px" height="75px"></a>
