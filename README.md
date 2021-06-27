@@ -65,6 +65,6 @@ This is an opensource project for the surfs up hackathon. The aim of this projec
 ***
 <div align="center">
 
-<a href="#top">  <img src="https://cutt.ly/yn4LGhR" width="65px" height="65px" align="center"> </a>  
+<a href="#top">  <img src="https://cutt.ly/yn4LGhR" width="65px" height="65px" > </a>  
 	
 </div>	
