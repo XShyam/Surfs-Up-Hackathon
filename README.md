@@ -63,6 +63,8 @@ This is an opensource project for the surfs up hackathon. The aim of this projec
 <a href="https://www.youtube.com/watch?v=RXioHFIlOV8"><img src="https://cutt.ly/pnDCkDG" width="75px" height="75px"></a>
 
 ***
+<div align="center">
 
-
-<a href="#top">  <img src="https://cutt.ly/yn4LGhR" width="65px" height="65px" align="center"> </a>     
+<a href="#top">  <img src="https://cutt.ly/yn4LGhR" width="65px" height="65px" align="center"> </a>  
+	
+</div>	
