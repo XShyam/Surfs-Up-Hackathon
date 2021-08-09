@@ -60,7 +60,7 @@ This is an opensource project for the surfs up hackathon. The aim of this projec
 `PLEASE CLICK ON THE IMAGE BELOW TO VIEW OUR DEMONSTRATION VIDEO`
 
 
-<a href="https://www.youtube.com/watch?v=RXioHFIlOV8"><img src="https://cutt.ly/pnDCkDG" width="75px" height="75px"></a>
+<a href="https://www.youtube.com/watch?v=i41iWcD0Vkk&t=3s"><img src="https://cutt.ly/pnDCkDG" width="75px" height="75px"></a>
 
 ***
 <div align="center">
